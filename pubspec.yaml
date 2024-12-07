@@ -12,6 +12,7 @@ dependencies:
   system_info2: ^4.0.0
   xml: ^6.1.0
   archive: ^3.3.0
+  dispose: ^0.0.9+1
 
 dev_dependencies:
   lints: ^4.0.0

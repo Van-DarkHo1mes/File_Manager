@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'package:archive/archive_io.dart';
 
 class FileHandler {
   late File _file;
